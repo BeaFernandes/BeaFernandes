@@ -1,4 +1,4 @@
-## Hey! ✨ I'm Beatriz
+## Hey! ✨ I'm Bea
 
 <p align="left">
   <a href="https://github.com/BeaFernandes/BeaFernandes">
