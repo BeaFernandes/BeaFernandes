@@ -2,7 +2,7 @@
 
 <p align="left">
   <a href="https://github.com/BeaFernandes/BeaFernandes">
-    <img src="https://komarev.com/ghpvc/?username=BeaFernandes&color=red" alt="profile views" />
+    <img src="https://komarev.com/ghpvc/?username=BeaFernandes" alt="profile views" />
   </a>
   <a href="https://github.com/BeaFernandes?tab=followers">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/BeaFernandes?color=yellow&logo=github">
